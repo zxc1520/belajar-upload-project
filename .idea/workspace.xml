@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af96cc9f-4d5a-4abf-9fe3-bdfc4a3967a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y0TgpFoXTfORJfLi9BjGKjHonK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Kotlin.com.afif.belajar.baru.SecondKt">
+    <configuration name="com.afif.belajar.baru.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="belajarkotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.afif.belajar.baru.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.afif.belajar.baru.SecondKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="belajarkotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.afif.belajar.baru.SecondKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.afif.belajar.objek.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="belajarkotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.afif.belajar.objek.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.afif.belajar.objek.ObyekKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="belajarkotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.afif.belajar.objek.ObyekKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.afif.belajar.objek.SetAndGetKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="belajarkotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.afif.belajar.objek.SetAndGetKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.afif.belajar.baru.SecondKt" />
+        <item itemvalue="Kotlin.com.afif.belajar.baru.MainKt" />
+        <item itemvalue="Kotlin.com.afif.belajar.objek.MainKt" />
+        <item itemvalue="Kotlin.com.afif.belajar.objek.SetAndGetKt" />
+        <item itemvalue="Kotlin.com.afif.belajar.objek.ObyekKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af96cc9f-4d5a-4abf-9fe3-bdfc4a3967a1" name="Default Changelist" comment="" />
+      <created>1582078625255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582078625255</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom" timestamp="1588253652366">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582903135949" />
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588253652366" />
+    <state width="1323" height="191" key="GridCell.Tab.0.center" timestamp="1588253652366">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582903135949" />
+    <state width="1323" height="191" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1588253652366" />
+    <state width="1323" height="191" key="GridCell.Tab.0.left" timestamp="1588253652366">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582903135949" />
+    <state width="1323" height="191" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1588253652366" />
+    <state width="1323" height="191" key="GridCell.Tab.0.right" timestamp="1588253652366">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582903135949" />
+    <state width="1323" height="191" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1588253652366" />
+    <state x="379" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1588221836331">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583066695522" />
+    <state x="379" y="199" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1588221836331" />
+  </component>
+</project>
